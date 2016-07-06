@@ -2,6 +2,17 @@
     background-color:aqua;
 }
 h1{
-    font-family: seif;
+    font-family: serif;
     font-size: 20px
+}
+ul{
+    font-family: Verdana;
+}
+li::first-letter{
+    font-size:x-large;
+    
+
+}
+.copyright{
+    font-size:small;
 }
