@@ -30,6 +30,19 @@ ul{
     margin: 0,25%;
     border:dotted;
     border-bottom-left-radius: 4px
-    bo
+    
    
+}
+p{
+    margin-left: 15px;
+    font-family:sans-serif; 
+    font-size: 14px;
+}
+.copyright{
+    text-align: center;
+    font-size:12px;
+    
+}
+a {
+    text-decoration: none;
 }
