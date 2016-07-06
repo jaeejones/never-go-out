@@ -3,10 +3,16 @@
 }
 h1{
     font-family: serif;
-    font-size: 20px
+    font-size: 24px
 }
 ul{
     font-family: Verdana;
+    text-align: center;
+    list-style-type:none;
+    font-size:medium
+}
+p{
+
 }
 li::first-letter{
     font-size:x-large;

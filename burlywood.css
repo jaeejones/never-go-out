@@ -1,2 +1,35 @@
-﻿body { background-color:burlywood;
+﻿body { background-color: burlywood;
+       margin-left:350px;
+       margin-right:350px;
+       margin-top:50px;
+       margin-bottom:50px;
+     
+
+}
+
+h1{ font-family: Impact;
+    font-style:italic;
+    text-align:center;
+    border-bottom: 4px dotted;
+    
+}
+li::first-letter {
+    font-size: x-large;
+}
+ul{
+    font-family:'Microsoft Sans Serif';
+    text-align: center;
+    list-style-type: none;
+    font-size: medium;
+   
+}
+#wrap{
+    
+    background-color: #ffffff;
+    padding: 0,10px;
+    margin: 0,25%;
+    border:dotted;
+    border-bottom-left-radius: 4px
+    bo
+   
 }
