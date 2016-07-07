@@ -1,5 +1,5 @@
-﻿body {
-    background-color:aqua;
+﻿bbody {
+    background-color:#55CCFF;
 }
 h1{
     font-family: serif;
@@ -11,8 +11,10 @@ ul{
     list-style-type:none;
     font-size:medium
 }
-p{
 
+p{
+font-family: sans-serif;
+font-size:14px;
 }
 li::first-letter{
     font-size:x-large;
@@ -20,5 +22,5 @@ li::first-letter{
 
 }
 .copyright{
-    font-size:small;
+    font-size:14px;
 }
