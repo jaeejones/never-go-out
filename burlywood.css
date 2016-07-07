@@ -15,12 +15,15 @@ h1{ font-family: Impact;
 }
 li::first-letter {
     font-size: x-large;
+    font-style:italic;
 }
 ul{
-    font-family:'Microsoft Sans Serif';
+    font-family:Arial;
     text-align: center;
     list-style-type: none;
     font-size: medium;
+    letter-spacing: 1px;
+    font-style:italic;
    
 }
 #wrap{
@@ -37,6 +40,7 @@ p{
     margin-left: 15px;
     font-family:sans-serif; 
     font-size: 14px;
+   
 }
 .copyright{
     text-align: center;
